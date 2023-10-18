@@ -2,8 +2,6 @@
 
 # The Chickies
 
-![The Chickies Logo](https://your-organization-logo-url.com)
-
 Welcome to The Chickies, where innovation meets development! We are a vibrant group of young developers with a passion for creating a wide range of applications, including web apps, mobile apps, and platforms. Our mission is to build cutting-edge solutions that empower and inspire.
 
 ## About Us
@@ -17,7 +15,24 @@ At The Chickies, we take pride in our diverse and talented team of developers. W
 - **Mobile Apps:** Mobile is the future, and we're at the forefront of mobile app development. From iOS to Android, we build apps that users love.
 
 - **Platforms:** Our platform development team creates robust, scalable, and secure solutions that cater to a variety of needs and industries.
+## Tech Stack
 
+Our main technology stack includes:
+
+- **.NET:** We harness the power of .NET to develop robust and scalable enterprise applications.
+
+- **Java Spring:** Our Java Spring developer with high-performance backend solutions for a variety of projects.
+
+- **React:** Front-end development is at the heart of many of our projects, and we rely on React to build modern and interactive user interfaces.
+
+- **Flutter:** For mobile app development, we utilize Flutter to deliver stunning, cross-platform applications.
+
+## Our Team
+
+Our talented and dedicated team members bring these technologies to life:
+
+
+Get to know us better by exploring our profiles on GitHub.
 ## Get in Touch
 
 Connect with us, collaborate, or explore our projects on [GitHub](https://github.com/TheChickies). We're always open to new ideas, contributions, and partnerships.
